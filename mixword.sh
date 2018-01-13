@@ -14,3 +14,6 @@ for i in $broken ; do
 	counter="`expr $counter + 1`"
 done
 echo $rebuild
+
+#output
+#OUTofMEMORYerror
